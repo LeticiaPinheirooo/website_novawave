@@ -28,9 +28,9 @@ No site, você encontra:
 
 ## Equipe do Projeto
 
-- **Leticia Pinheiro** — Desenvolvimento frontend, design e coordenação
-- **Thiago Fernandes** — Suporte ao frontend e integração visual
-- **Natgalia Silva** — Conteúdo e revisão
+- **Leticia Pinheiro** — Desenvolvimento front e backend, design e coordenação
+- **Thiago Farias** — Suporte
+- **Natgalia Garces** — revisão
 
 ---
 
